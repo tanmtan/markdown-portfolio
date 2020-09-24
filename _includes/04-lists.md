@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+#Cuisines I Love
+1. Indian
+2. Mexican
+3. Oriental
